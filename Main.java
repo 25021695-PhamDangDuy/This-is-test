@@ -11,6 +11,7 @@ public class Main {
 
         int n = sc.nextInt();
         sc.nextLine();
+        sc.next(
 
         Employee[] employees = new Employee[n];
 
