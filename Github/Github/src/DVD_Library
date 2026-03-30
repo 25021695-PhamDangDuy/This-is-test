@@ -1,5 +1,0 @@
-public class DVD_Library<MediaItem>{
-    private double price;
-    private String id;
-    private String name;
-}
