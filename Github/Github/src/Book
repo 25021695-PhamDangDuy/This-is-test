@@ -2,3 +2,8 @@ public class Book extends Library{
       String id;
       String name;
       double price;
+}
+public String getName(String name){
+      retun name;
+}
+    
