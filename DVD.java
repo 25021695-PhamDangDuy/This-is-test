@@ -1,1 +1,4 @@
-public class DVD{}
+public class DVD{
+  String name;
+  String duration
+}
