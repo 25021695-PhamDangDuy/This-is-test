@@ -1,1 +1,4 @@
 public class Book extends Library{
+      String id;
+      String name;
+      double price;
